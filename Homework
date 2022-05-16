@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+</head>
+<body>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus vel dolor itaque blanditiis a distinctio velit nisi, consequuntur voluptate quae laboriosam totam deserunt culpa aperiam? Debitis officiis natus rem ab!</p>
+    <dd>
+        Инициализация нового репозитория
+    </dd>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, assumenda? Dolorum deleniti, error ducimus eaque nostrum iusto molestiae! Temporibus perspiciatis illo molestias. Aut hic, ducimus soluta maiores recusandae odit esse.</p>
+    <dd>Создание нвоого комита</dd>
+
+</body>
+</html>
